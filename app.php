@@ -1,3 +1,5 @@
 <?
 
 $app = new app();
+
+exit;
